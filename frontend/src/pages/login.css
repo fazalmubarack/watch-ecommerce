@@ -1,0 +1,21 @@
+.login{
+    width:fit-content;
+padding:50px 30px;
+}
+.input{
+    padding: 10px 20px;
+    width: 90%;
+    margin-bottom: 10px;
+    
+}
+.log{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.input1{
+     padding: 10px 20px;
+    width: 94%;
+    margin-bottom: 10px;
+}

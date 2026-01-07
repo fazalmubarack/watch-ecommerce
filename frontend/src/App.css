@@ -1,0 +1,9 @@
+/* App.css */
+.app-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f8fafc 0%, #e0e7ff 50%, #e0e7ff 100%);
+}
+
+.app-main {
+  transition: all 0.3s ease;
+}
